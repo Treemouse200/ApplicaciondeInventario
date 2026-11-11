@@ -1,0 +1,43 @@
+{"fecha": "2026-11-10T00:15:32", "usuario": "admin", "accion": "login", "resultado": "fallido"}
+{"fecha": "2026-11-10T00:19:52", "usuario": "admin", "accion": "login", "resultado": "fallido"}
+{"fecha": "2026-11-10T00:24:26", "usuario": "user", "accion": "login", "resultado": "fallido"}
+{"fecha": "2026-11-10T00:28:24", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-10T00:28:34", "usuario": "user", "accion": "modificar", "resultado": "rechazado", "producto": "3"}
+{"fecha": "2026-11-10T00:30:10", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-10T00:30:17", "usuario": "admin", "accion": "modificar", "resultado": "fallido", "producto": "1"}
+{"fecha": "2026-11-10T00:33:22", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 10, "nueva": 20}
+{"fecha": "2026-11-10T00:33:41", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-10T00:33:48", "usuario": "user", "accion": "modificar", "resultado": "rechazado", "producto": "P001"}
+{"fecha": "2026-11-10T21:43:56", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-10T21:44:05", "usuario": "user", "accion": "modificar", "resultado": "rechazado", "producto": "P001"}
+{"fecha": "2026-11-10T21:45:49", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-10T21:46:05", "usuario": "owo", "accion": "login", "resultado": "fallido"}
+{"fecha": "2026-11-10T22:56:26", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-10T22:56:26", "usuario": "user", "accion": "modificar", "resultado": "rechazado", "producto": "P001"}
+{"fecha": "2026-11-10T23:02:31", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-10T23:02:31", "usuario": "user", "accion": "modificar", "resultado": "rechazado", "producto": "P001"}
+{"fecha": "2026-11-10T23:02:31", "usuario": "anonimo", "accion": "modificar", "resultado": "rechazado", "producto": "P001"}
+{"fecha": "2026-11-10T23:27:21", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-10T23:27:31", "usuario": "admin", "accion": "modificar", "resultado": "fallido", "producto": "p001"}
+{"fecha": "2026-11-10T23:27:45", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 10, "nueva": 0}
+{"fecha": "2026-11-10T23:31:36", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 0, "nueva": 1000}
+{"fecha": "2026-11-10T23:39:28", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-10T23:46:05", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 1000, "nueva": 0}
+{"fecha": "2026-11-10T23:46:42", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 0, "nueva": 1000}
+{"fecha": "2026-11-10T23:50:04", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-10T23:50:17", "usuario": "admin", "accion": "modificar", "resultado": "fallido", "producto": "P999"}
+{"fecha": "2026-11-11T13:57:21", "usuario": "Admin", "accion": "login", "resultado": "fallido"}
+{"fecha": "2026-11-11T13:57:39", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-11T13:58:47", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-11T14:03:45", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-11T14:09:36", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-11T14:10:14", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 10, "nueva": 20}
+{"fecha": "2026-11-11T14:11:09", "usuario": "admin", "accion": "modificar", "resultado": "fallido", "producto": "P999"}
+{"fecha": "2026-11-11T14:29:37", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-11T15:26:54", "usuario": "", "accion": "login", "resultado": "fallido"}
+{"fecha": "2026-11-11T15:27:04", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-11T15:27:11", "usuario": "user", "accion": "modificar", "resultado": "rechazado", "producto": "P001"}
+{"fecha": "2026-11-11T19:16:20", "usuario": "admin ", "accion": "login", "resultado": "fallido"}
+{"fecha": "2026-11-11T19:16:46", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-11T19:21:13", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha": "2026-11-11T19:26:44", "usuario": "admin", "accion": "login", "resultado": "exitoso"}

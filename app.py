@@ -1,6 +1,6 @@
 """BASE EDUCATIVA INSEGURA. Corregir los TODO antes de la entrega."""
 import json
-from ApplicaciondeInventario.seguridad import crear_hash, verificar_clave 
+from seguridad import crear_hash, verificar_clave 
 from pathlib import Path
 from datetime import datetime
 
